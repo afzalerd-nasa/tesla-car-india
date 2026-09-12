@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Cars India",
+  "description": "Comprehensive portal for Tesla electric cars in India. Explore models, specs, estimated prices, range, Supercharging network, comparisons, and ownership guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
